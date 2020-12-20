@@ -1,2 +1,2 @@
 # qiskit-quantum-state-classifier
-Pilote project testing a classifier  based on distance matrix computation tested on a set of twenty separable states (mixing of $GHZ\otimes\Psi^+$ and $W\otimes\Phi^+$) 
+Pilote project testing by Monte Carlo simulation on a set of twenty separable quantum states (GHZ-Psi+ / W-Phi+) a classifier based on distance matrix computation.

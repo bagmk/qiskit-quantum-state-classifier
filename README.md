@@ -1,2 +1,2 @@
 # qiskit-quantum-state-classifier
-Pilote project testing by Monte Carlo simulation on a set of twenty separable quantum states (GHZ-Psi+ / W-Phi+) a classifier based on distance matrix computation.
+Pilote project testing by a Monte Carlo simulation a quantum state classifier based on distance matrix computation. The classifier is applied on a set of separable highly entangled quantum states and uses either an ideal model of measurement count distributions or a front-end empirical model.
